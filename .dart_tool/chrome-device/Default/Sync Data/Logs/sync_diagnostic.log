@@ -1,0 +1,170 @@
+2024-11-01T14:21:41.378Z P:9976 T:22068] SyncServiceImpl::ResetEngine,Reset engine with reason: 8
+2024-11-01T14:21:41.378Z P:9976 T:22068] ModelLoadManager::Stop,Stopped: Bookmarks
+2024-11-01T14:21:41.378Z P:9976 T:22068] ModelLoadManager::Stop,Stopped: Preferences
+2024-11-01T14:21:41.379Z P:9976 T:22068] ModelLoadManager::Stop,Stopped: Passwords
+2024-11-01T14:21:41.379Z P:9976 T:22068] ModelLoadManager::Stop,Stopped: Autofill Profiles
+2024-11-01T14:21:41.379Z P:9976 T:22068] ModelLoadManager::Stop,Stopped: Autofill
+2024-11-01T14:21:41.379Z P:9976 T:22068] ModelLoadManager::Stop,Stopped: Typed URLs
+2024-11-01T14:21:41.379Z P:9976 T:22068] ModelLoadManager::Stop,Stopped: Extensions
+2024-11-01T14:21:41.379Z P:9976 T:22068] ModelLoadManager::Stop,Stopped: Sessions
+2024-11-01T14:21:41.379Z P:9976 T:22068] ModelLoadManager::Stop,Stopped: Extension settings
+2024-11-01T14:21:41.379Z P:9976 T:22068] ModelLoadManager::Stop,Stopped: History Delete Directives
+2024-11-01T14:21:41.379Z P:9976 T:22068] ModelLoadManager::Stop,Stopped: Device Info
+2024-11-01T14:21:41.379Z P:9976 T:22068] ModelLoadManager::Stop,Stopped: User Consents
+2024-11-01T14:21:41.379Z P:9976 T:22068] ModelLoadManager::Stop,Stopped: Send Tab To Self
+2024-11-01T14:21:41.379Z P:9976 T:22068] ModelLoadManager::Stop,Stopped: Web Apps
+2024-11-01T14:21:41.379Z P:9976 T:22068] ModelLoadManager::Stop,Stopped: History
+2024-11-01T14:21:41.379Z P:9976 T:22068] ModelLoadManager::Stop,Stopped: Collection
+2024-11-01T14:21:41.379Z P:9976 T:22068] ModelLoadManager::Stop,Stopped: Edge E Drop
+2024-11-01T14:21:41.379Z P:9976 T:22068] ModelLoadManager::Stop,Stopped: Edge Hub App Usage
+2024-11-01T14:21:41.379Z P:9976 T:22068] ModelLoadManager::Stop,Stopped: Edge Tab Group
+2024-11-01T14:21:41.379Z P:9976 T:22068] ModelLoadManager::Stop,Stopped: Edge Wallet
+2024-11-01T14:21:41.379Z P:9976 T:22068] SyncServiceImpl::Initialize,SyncState after authenticated was: NotSignedIn
+2024-11-01T14:21:41.629Z P:9976 T:22068] SyncServiceImpl::ResetEngine,Reset engine with reason: 8
+2024-11-01T14:21:41.629Z P:9976 T:22068] ModelLoadManager::Stop,Stopped: Bookmarks
+2024-11-01T14:21:41.629Z P:9976 T:22068] ModelLoadManager::Stop,Stopped: Preferences
+2024-11-01T14:21:41.629Z P:9976 T:22068] ModelLoadManager::Stop,Stopped: Passwords
+2024-11-01T14:21:41.629Z P:9976 T:22068] ModelLoadManager::Stop,Stopped: Autofill Profiles
+2024-11-01T14:21:41.629Z P:9976 T:22068] ModelLoadManager::Stop,Stopped: Autofill
+2024-11-01T14:21:41.629Z P:9976 T:22068] ModelLoadManager::Stop,Stopped: Typed URLs
+2024-11-01T14:21:41.629Z P:9976 T:22068] ModelLoadManager::Stop,Stopped: Extensions
+2024-11-01T14:21:41.629Z P:9976 T:22068] ModelLoadManager::Stop,Stopped: Sessions
+2024-11-01T14:21:41.629Z P:9976 T:22068] ModelLoadManager::Stop,Stopped: Extension settings
+2024-11-01T14:21:41.629Z P:9976 T:22068] ModelLoadManager::Stop,Stopped: History Delete Directives
+2024-11-01T14:21:41.629Z P:9976 T:22068] ModelLoadManager::Stop,Stopped: Device Info
+2024-11-01T14:21:41.629Z P:9976 T:22068] ModelLoadManager::Stop,Stopped: User Consents
+2024-11-01T14:21:41.629Z P:9976 T:22068] ModelLoadManager::Stop,Stopped: Send Tab To Self
+2024-11-01T14:21:41.629Z P:9976 T:22068] ModelLoadManager::Stop,Stopped: Web Apps
+2024-11-01T14:21:41.629Z P:9976 T:22068] ModelLoadManager::Stop,Stopped: History
+2024-11-01T14:21:41.629Z P:9976 T:22068] ModelLoadManager::Stop,Stopped: Collection
+2024-11-01T14:21:41.629Z P:9976 T:22068] ModelLoadManager::Stop,Stopped: Edge E Drop
+2024-11-01T14:21:41.629Z P:9976 T:22068] ModelLoadManager::Stop,Stopped: Edge Hub App Usage
+2024-11-01T14:21:41.629Z P:9976 T:22068] ModelLoadManager::Stop,Stopped: Edge Tab Group
+2024-11-01T14:21:41.629Z P:9976 T:22068] ModelLoadManager::Stop,Stopped: Edge Wallet
+2024-11-01T14:21:41.792Z P:9976 T:22068] SyncServiceImpl::TryStartImpl,Try to start sync engine
+2024-11-01T14:21:41.793Z P:9976 T:9764] SyncManagerImpl::NudgeForInitialDownload,Initial download nudge for Encryption Keys
+2024-11-01T14:21:41.793Z P:9976 T:9764] SyncEngineBackend::LoadAndConnectNigoriController,Load and connect Nigori controller
+2024-11-01T14:21:41.793Z P:9976 T:9764] SyncEngineBackend::DoInitialize,Control Types added: Encryption Keys
+2024-11-01T14:21:41.793Z P:9976 T:9764] SyncManagerImpl::ConfigureSyncer,Types to download: Encryption Keys with reason: 3
+2024-11-01T14:21:41.794Z P:9976 T:12988] SyncSchedulerImpl::DoConfigurationSyncCycleJob,Configure job was blocked
+2024-11-01T14:21:42.058Z P:9976 T:22068] SyncAuthManager::SetLastAuthError,Current auth error: None
+2024-11-01T14:21:42.059Z P:9976 T:22068] SyncAuthManager::EdgeLogTokenErrorState,Token error with: None for account type: MSA
+2024-11-01T14:21:42.059Z P:9976 T:22068] SyncServiceImpl::CredentialsChanged,Credentials changed for: EdgeSyncScopeNew
+2024-11-01T14:22:02.678Z P:9976 T:22068] SyncServiceImpl::ResetEngine,Reset engine with reason: 0
+2024-11-01T14:22:02.678Z P:9976 T:22068] SyncServiceImpl::ResetEngine,Reset engine with reason: 0
+2024-11-01T14:33:24.888Z P:896 T:17792] SyncServiceImpl::Initialize,SyncState after authenticated was: FeatureNotRequestedNotSetup
+2024-11-01T14:33:25.281Z P:896 T:17792] SyncServiceImpl::TryStartImpl,Try to start sync engine
+2024-11-01T14:33:25.283Z P:896 T:9060] SyncManagerImpl::NudgeForInitialDownload,Initial download nudge for Encryption Keys
+2024-11-01T14:33:25.283Z P:896 T:9060] SyncEngineBackend::LoadAndConnectNigoriController,Load and connect Nigori controller
+2024-11-01T14:33:25.283Z P:896 T:9060] SyncEngineBackend::DoInitialize,Control Types added: Encryption Keys
+2024-11-01T14:33:25.283Z P:896 T:9060] SyncManagerImpl::ConfigureSyncer,Types to download: Encryption Keys with reason: 3
+2024-11-01T14:33:25.283Z P:896 T:9060] SyncSchedulerImpl::DoConfigurationSyncCycleJob,Configure job was blocked
+2024-11-01T14:33:25.518Z P:896 T:17792] SyncAuthManager::SetLastAuthError,Current auth error: None
+2024-11-01T14:33:25.518Z P:896 T:17792] SyncAuthManager::EdgeLogTokenErrorState,Token error with: None for account type: MSA
+2024-11-01T14:33:25.518Z P:896 T:17792] SyncServiceImpl::CredentialsChanged,Credentials changed for: EdgeSyncScopeNew
+2024-11-01T14:33:40.240Z P:896 T:17792] SyncServiceImpl::ResetEngine,Reset engine with reason: 0
+2024-11-01T14:33:40.240Z P:896 T:17792] SyncServiceImpl::ResetEngine,Reset engine with reason: 0
+2024-11-01T14:34:37.334Z P:2236 T:22408] SyncServiceImpl::Initialize,SyncState after authenticated was: FeatureNotRequestedNotSetup
+2024-11-01T14:34:37.591Z P:2236 T:22408] SyncServiceImpl::TryStartImpl,Try to start sync engine
+2024-11-01T14:34:37.592Z P:2236 T:8584] SyncManagerImpl::NudgeForInitialDownload,Initial download nudge for Encryption Keys
+2024-11-01T14:34:37.592Z P:2236 T:8584] SyncEngineBackend::LoadAndConnectNigoriController,Load and connect Nigori controller
+2024-11-01T14:34:37.592Z P:2236 T:8584] SyncEngineBackend::DoInitialize,Control Types added: Encryption Keys
+2024-11-01T14:34:37.592Z P:2236 T:8584] SyncManagerImpl::ConfigureSyncer,Types to download: Encryption Keys with reason: 3
+2024-11-01T14:34:37.592Z P:2236 T:8584] SyncSchedulerImpl::DoConfigurationSyncCycleJob,Configure job was blocked
+2024-11-01T14:34:37.694Z P:2236 T:22408] SyncAuthManager::SetLastAuthError,Current auth error: None
+2024-11-01T14:34:37.694Z P:2236 T:22408] SyncAuthManager::EdgeLogTokenErrorState,Token error with: None for account type: MSA
+2024-11-01T14:34:37.694Z P:2236 T:22408] SyncServiceImpl::CredentialsChanged,Credentials changed for: EdgeSyncScopeNew
+2024-11-01T14:34:49.626Z P:2236 T:22408] SyncServiceImpl::ResetEngine,Reset engine with reason: 0
+2024-11-01T14:34:49.626Z P:2236 T:22408] SyncServiceImpl::ResetEngine,Reset engine with reason: 0
+2024-11-01T14:37:46.089Z P:17780 T:17128] SyncServiceImpl::Initialize,SyncState after authenticated was: FeatureNotRequestedNotSetup
+2024-11-01T14:37:46.339Z P:17780 T:17128] SyncServiceImpl::TryStartImpl,Try to start sync engine
+2024-11-01T14:37:46.340Z P:17780 T:6632] SyncManagerImpl::NudgeForInitialDownload,Initial download nudge for Encryption Keys
+2024-11-01T14:37:46.340Z P:17780 T:6632] SyncEngineBackend::LoadAndConnectNigoriController,Load and connect Nigori controller
+2024-11-01T14:37:46.340Z P:17780 T:6632] SyncEngineBackend::DoInitialize,Control Types added: Encryption Keys
+2024-11-01T14:37:46.340Z P:17780 T:6632] SyncManagerImpl::ConfigureSyncer,Types to download: Encryption Keys with reason: 3
+2024-11-01T14:37:46.341Z P:17780 T:6632] SyncSchedulerImpl::DoConfigurationSyncCycleJob,Configure job was blocked
+2024-11-01T14:37:46.447Z P:17780 T:17128] SyncAuthManager::SetLastAuthError,Current auth error: None
+2024-11-01T14:37:46.447Z P:17780 T:17128] SyncAuthManager::EdgeLogTokenErrorState,Token error with: None for account type: MSA
+2024-11-01T14:37:46.447Z P:17780 T:17128] SyncServiceImpl::CredentialsChanged,Credentials changed for: EdgeSyncScopeNew
+2024-11-01T14:37:58.169Z P:17780 T:17128] SyncServiceImpl::ResetEngine,Reset engine with reason: 0
+2024-11-01T14:37:58.169Z P:17780 T:17128] SyncServiceImpl::ResetEngine,Reset engine with reason: 0
+2024-11-01T14:38:41.012Z P:15060 T:19092] SyncServiceImpl::Initialize,SyncState after authenticated was: FeatureNotRequestedNotSetup
+2024-11-01T14:38:41.274Z P:15060 T:19092] SyncServiceImpl::TryStartImpl,Try to start sync engine
+2024-11-01T14:38:41.276Z P:15060 T:11428] SyncManagerImpl::NudgeForInitialDownload,Initial download nudge for Encryption Keys
+2024-11-01T14:38:41.276Z P:15060 T:11428] SyncEngineBackend::LoadAndConnectNigoriController,Load and connect Nigori controller
+2024-11-01T14:38:41.276Z P:15060 T:11428] SyncEngineBackend::DoInitialize,Control Types added: Encryption Keys
+2024-11-01T14:38:41.276Z P:15060 T:11428] SyncManagerImpl::ConfigureSyncer,Types to download: Encryption Keys with reason: 3
+2024-11-01T14:38:41.276Z P:15060 T:11428] SyncSchedulerImpl::DoConfigurationSyncCycleJob,Configure job was blocked
+2024-11-01T14:38:41.395Z P:15060 T:19092] SyncAuthManager::SetLastAuthError,Current auth error: None
+2024-11-01T14:38:41.395Z P:15060 T:19092] SyncAuthManager::EdgeLogTokenErrorState,Token error with: None for account type: MSA
+2024-11-01T14:38:41.395Z P:15060 T:19092] SyncServiceImpl::CredentialsChanged,Credentials changed for: EdgeSyncScopeNew
+2024-11-01T14:41:09.674Z P:15060 T:19092] SyncServiceImpl::ResetEngine,Reset engine with reason: 0
+2024-11-01T14:41:09.674Z P:15060 T:19092] SyncServiceImpl::ResetEngine,Reset engine with reason: 0
+2024-11-01T14:44:54.147Z P:21556 T:8908] SyncServiceImpl::Initialize,SyncState after authenticated was: FeatureNotRequestedNotSetup
+2024-11-01T14:44:54.441Z P:21556 T:8908] SyncServiceImpl::TryStartImpl,Try to start sync engine
+2024-11-01T14:44:54.443Z P:21556 T:16388] SyncManagerImpl::NudgeForInitialDownload,Initial download nudge for Encryption Keys
+2024-11-01T14:44:54.443Z P:21556 T:16388] SyncEngineBackend::LoadAndConnectNigoriController,Load and connect Nigori controller
+2024-11-01T14:44:54.443Z P:21556 T:16388] SyncEngineBackend::DoInitialize,Control Types added: Encryption Keys
+2024-11-01T14:44:54.443Z P:21556 T:16388] SyncManagerImpl::ConfigureSyncer,Types to download: Encryption Keys with reason: 3
+2024-11-01T14:44:54.443Z P:21556 T:16388] SyncSchedulerImpl::DoConfigurationSyncCycleJob,Configure job was blocked
+2024-11-01T14:44:54.555Z P:21556 T:8908] SyncAuthManager::SetLastAuthError,Current auth error: None
+2024-11-01T14:44:54.555Z P:21556 T:8908] SyncAuthManager::EdgeLogTokenErrorState,Token error with: None for account type: MSA
+2024-11-01T14:44:54.555Z P:21556 T:8908] SyncServiceImpl::CredentialsChanged,Credentials changed for: EdgeSyncScopeNew
+2024-11-01T14:49:35.329Z P:21556 T:8908] SyncServiceImpl::ResetEngine,Reset engine with reason: 0
+2024-11-01T14:49:58.690Z P:16012 T:4160] SyncServiceImpl::Initialize,SyncState after authenticated was: FeatureNotRequestedNotSetup
+2024-11-01T14:49:58.947Z P:16012 T:4160] SyncServiceImpl::TryStartImpl,Try to start sync engine
+2024-11-01T14:49:58.949Z P:16012 T:19640] SyncManagerImpl::NudgeForInitialDownload,Initial download nudge for Encryption Keys
+2024-11-01T14:49:58.949Z P:16012 T:19640] SyncEngineBackend::LoadAndConnectNigoriController,Load and connect Nigori controller
+2024-11-01T14:49:58.949Z P:16012 T:19640] SyncEngineBackend::DoInitialize,Control Types added: Encryption Keys
+2024-11-01T14:49:58.949Z P:16012 T:19640] SyncManagerImpl::ConfigureSyncer,Types to download: Encryption Keys with reason: 3
+2024-11-01T14:49:58.949Z P:16012 T:19640] SyncSchedulerImpl::DoConfigurationSyncCycleJob,Configure job was blocked
+2024-11-01T14:49:59.039Z P:16012 T:4160] SyncAuthManager::SetLastAuthError,Current auth error: None
+2024-11-01T14:49:59.039Z P:16012 T:4160] SyncAuthManager::EdgeLogTokenErrorState,Token error with: None for account type: MSA
+2024-11-01T14:49:59.039Z P:16012 T:4160] SyncServiceImpl::CredentialsChanged,Credentials changed for: EdgeSyncScopeNew
+2024-11-01T14:54:33.030Z P:16012 T:4160] SyncServiceImpl::ResetEngine,Reset engine with reason: 0
+2024-11-01T14:54:33.030Z P:16012 T:4160] SyncServiceImpl::ResetEngine,Reset engine with reason: 0
+2024-11-01T14:55:56.342Z P:19112 T:23088] SyncServiceImpl::Initialize,SyncState after authenticated was: FeatureNotRequestedNotSetup
+2024-11-01T14:55:56.619Z P:19112 T:23088] SyncServiceImpl::TryStartImpl,Try to start sync engine
+2024-11-01T14:55:56.621Z P:19112 T:21564] SyncManagerImpl::NudgeForInitialDownload,Initial download nudge for Encryption Keys
+2024-11-01T14:55:56.621Z P:19112 T:21564] SyncEngineBackend::LoadAndConnectNigoriController,Load and connect Nigori controller
+2024-11-01T14:55:56.621Z P:19112 T:21564] SyncEngineBackend::DoInitialize,Control Types added: Encryption Keys
+2024-11-01T14:55:56.621Z P:19112 T:21564] SyncManagerImpl::ConfigureSyncer,Types to download: Encryption Keys with reason: 3
+2024-11-01T14:55:56.621Z P:19112 T:21564] SyncSchedulerImpl::DoConfigurationSyncCycleJob,Configure job was blocked
+2024-11-01T14:55:56.728Z P:19112 T:23088] SyncAuthManager::SetLastAuthError,Current auth error: None
+2024-11-01T14:55:56.728Z P:19112 T:23088] SyncAuthManager::EdgeLogTokenErrorState,Token error with: None for account type: MSA
+2024-11-01T14:55:56.728Z P:19112 T:23088] SyncServiceImpl::CredentialsChanged,Credentials changed for: EdgeSyncScopeNew
+2024-11-01T14:58:31.017Z P:19112 T:23088] SyncServiceImpl::ResetEngine,Reset engine with reason: 0
+2024-11-01T14:58:31.017Z P:19112 T:23088] SyncServiceImpl::ResetEngine,Reset engine with reason: 0
+2024-11-02T12:27:18.487Z P:9372 T:21968] SyncServiceImpl::Initialize,SyncState after authenticated was: FeatureNotRequestedNotSetup
+2024-11-02T12:27:18.735Z P:9372 T:21968] SyncServiceImpl::TryStartImpl,Try to start sync engine
+2024-11-02T12:27:18.736Z P:9372 T:10272] SyncManagerImpl::NudgeForInitialDownload,Initial download nudge for Encryption Keys
+2024-11-02T12:27:18.736Z P:9372 T:10272] SyncEngineBackend::LoadAndConnectNigoriController,Load and connect Nigori controller
+2024-11-02T12:27:18.736Z P:9372 T:10272] SyncEngineBackend::DoInitialize,Control Types added: Encryption Keys
+2024-11-02T12:27:18.736Z P:9372 T:10272] SyncManagerImpl::ConfigureSyncer,Types to download: Encryption Keys with reason: 3
+2024-11-02T12:27:18.736Z P:9372 T:3724] SyncSchedulerImpl::DoConfigurationSyncCycleJob,Configure job was blocked
+2024-11-02T12:27:19.543Z P:9372 T:21968] SyncAuthManager::SetLastAuthError,Current auth error: None
+2024-11-02T12:27:19.544Z P:9372 T:21968] SyncAuthManager::EdgeLogTokenErrorState,Token error with: None for account type: MSA
+2024-11-02T12:27:19.544Z P:9372 T:21968] SyncServiceImpl::CredentialsChanged,Credentials changed for: EdgeSyncScopeNew
+2024-11-02T12:33:28.955Z P:9372 T:21968] SyncServiceImpl::ResetEngine,Reset engine with reason: 0
+2024-11-03T05:18:11.497Z P:18132 T:20068] SyncServiceImpl::Initialize,SyncState after authenticated was: FeatureNotRequestedNotSetup
+2024-11-03T05:18:11.810Z P:18132 T:20068] SyncServiceImpl::TryStartImpl,Try to start sync engine
+2024-11-03T05:18:11.811Z P:18132 T:23068] SyncManagerImpl::NudgeForInitialDownload,Initial download nudge for Encryption Keys
+2024-11-03T05:18:11.811Z P:18132 T:23068] SyncEngineBackend::LoadAndConnectNigoriController,Load and connect Nigori controller
+2024-11-03T05:18:11.811Z P:18132 T:23068] SyncEngineBackend::DoInitialize,Control Types added: Encryption Keys
+2024-11-03T05:18:11.811Z P:18132 T:23068] SyncManagerImpl::ConfigureSyncer,Types to download: Encryption Keys with reason: 3
+2024-11-03T05:18:11.811Z P:18132 T:23068] SyncSchedulerImpl::DoConfigurationSyncCycleJob,Configure job was blocked
+2024-11-03T05:18:12.020Z P:18132 T:20068] SyncAuthManager::SetLastAuthError,Current auth error: None
+2024-11-03T05:18:12.020Z P:18132 T:20068] SyncAuthManager::EdgeLogTokenErrorState,Token error with: None for account type: MSA
+2024-11-03T05:18:12.020Z P:18132 T:20068] SyncServiceImpl::CredentialsChanged,Credentials changed for: EdgeSyncScopeNew
+2024-11-03T05:40:19.894Z P:18132 T:20068] SyncServiceImpl::ResetEngine,Reset engine with reason: 0
+2024-11-03T05:40:19.894Z P:18132 T:20068] SyncServiceImpl::ResetEngine,Reset engine with reason: 0
+2024-11-03T05:40:47.709Z P:10492 T:9184] SyncServiceImpl::Initialize,SyncState after authenticated was: FeatureNotRequestedNotSetup
+2024-11-03T05:40:47.954Z P:10492 T:9184] SyncServiceImpl::TryStartImpl,Try to start sync engine
+2024-11-03T05:40:47.956Z P:10492 T:18100] SyncManagerImpl::NudgeForInitialDownload,Initial download nudge for Encryption Keys
+2024-11-03T05:40:47.956Z P:10492 T:18100] SyncEngineBackend::LoadAndConnectNigoriController,Load and connect Nigori controller
+2024-11-03T05:40:47.956Z P:10492 T:18100] SyncEngineBackend::DoInitialize,Control Types added: Encryption Keys
+2024-11-03T05:40:47.956Z P:10492 T:18100] SyncManagerImpl::ConfigureSyncer,Types to download: Encryption Keys with reason: 3
+2024-11-03T05:40:47.956Z P:10492 T:18100] SyncSchedulerImpl::DoConfigurationSyncCycleJob,Configure job was blocked
+2024-11-03T05:40:48.085Z P:10492 T:9184] SyncAuthManager::SetLastAuthError,Current auth error: None
+2024-11-03T05:40:48.085Z P:10492 T:9184] SyncAuthManager::EdgeLogTokenErrorState,Token error with: None for account type: MSA
+2024-11-03T05:40:48.085Z P:10492 T:9184] SyncServiceImpl::CredentialsChanged,Credentials changed for: EdgeSyncScopeNew
